@@ -186,4 +186,4 @@ http://localhost
 ## 👨‍💻 Author
 
 **Pratyush Kumar Nanda**
-GitHub: 
+GitHub: https://github.com/Pratyush7021/Divine_Patho_Lab
