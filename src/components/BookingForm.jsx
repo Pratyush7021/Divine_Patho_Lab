@@ -55,7 +55,7 @@ const BookingForm = () => {
     }
     const loadToast = toast.loading("Sending Booking request.....");
     try {
-      const response = await fetch("https://formspree.io/f/xbdlarjd", {
+      const response = await fetch("https://formspree.io/f/xkoelyyr", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
