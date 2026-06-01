@@ -185,5 +185,5 @@ http://localhost
 
 ## 👨‍💻 Author
 
-**Suryamani Kumar**
-GitHub: [https://github.com/suryamani752](https://github.com/suryamani752)
+**Pratyush Kumar Nanda**
+GitHub: 
